@@ -1,5 +1,5 @@
 build:
   docker:
-    web: box/Dockerfile
+    web: Dockerfile
 run:
   web: python app.py
