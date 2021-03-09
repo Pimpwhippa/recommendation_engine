@@ -2,6 +2,11 @@
 
 If you tell me the movies you like (at least 1, maximum 5 movies), I will recommend to you 10 other movies you might like.
 
+now available at https://secret-beach-84256.herokuapp.com/
+the first visit to the site is currently taking too long, but eventually it will load. 
+please be patient. I'll improve that soon.
+
+otherwise try this;
 1. clone this repo
 2. docker pull tensorflow/tensorflow
 3. docker build -t tensorflow-flask:cmd .
